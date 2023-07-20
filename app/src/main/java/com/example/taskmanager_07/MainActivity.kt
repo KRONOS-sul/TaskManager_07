@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.navigation_dashboard,
                 R.id.navigation_notifications,
                 R.id.taskFragment,
-                R.id.profileFragment
+                R.id.navigation_profile
             )
         )
         setupActionBarWithNavController(navController, appBarConfiguration)
