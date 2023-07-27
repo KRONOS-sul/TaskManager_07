@@ -12,4 +12,7 @@
     <string name="contentt">Contentt</string>
     <string name="profile">Profile</string>
     <string name="name">Name</string>
+    <string name="skip">Skip</string>
+    <string name="desc">Desc</string>
+    <string name="get_started">Get Started</string>
 </resources>
